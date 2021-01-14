@@ -1,0 +1,24 @@
+{
+  "name": "to-do-mern",
+  "version": "1.0.0",
+  "description": "Simple To-Do app with MERN Stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hepmoz/to-do-mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hepmoz/to-do-mern/issues"
+  },
+  "homepage": "https://github.com/Hepmoz/to-do-mern#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.14.10",
+    "mongoose": "^5.1.6"
+  }
+}
